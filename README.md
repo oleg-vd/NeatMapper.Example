@@ -8,7 +8,7 @@ Collection support will be added in future versions.
 ## Installation & Usage
 
 ```bash
-dotnet add package NeatMapper --version 0.1.0
+dotnet add package NeatSoftMapper --version 0.1.0
 
 using ConsoleDemo;
 using NeatMapper;
