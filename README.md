@@ -5,7 +5,7 @@ NeatMapper allows you to map objects of different types to a unified structure u
 Supports nested objects and custom transformation functions.
 Collection support will be added in future versions.
 
-## Installation
+## Installation & Usage
 
 ```bash
 dotnet add package NeatMapper --version 0.1.0
