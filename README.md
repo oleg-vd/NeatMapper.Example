@@ -10,8 +10,6 @@ Collection support will be added in future versions.
 ```bash
 dotnet add package NeatMapper --version 0.1.0
 
-```csharp
-
 using ConsoleDemo;
 using NeatMapper;
 
